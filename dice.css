@@ -1,0 +1,59 @@
+
+.main-bg {
+    background-color: antiquewhite;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.dice-css{
+    width: 200px;
+    height: 200px; 
+    border-radius: 55px;
+}
+
+.img-container {
+    width: 151px;
+    height: 151px;
+  }
+
+.score-css{
+    font-size: 50px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+}
+.playercss{
+    font-size: 40px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.button-css{
+    margin-top: 28px;
+    margin-left: 130px;
+    width:120px;
+    height:40px;
+    border-radius: 20px;
+
+}
+
+.button1-css{
+    margin-top: 28px;
+    margin-left: 1130px;
+    width:120px;
+    height:40px;
+    border-radius: 20px;
+
+}
+.whole{
+    margin-top: 250px;
+    margin-left: 100px;
+}
+.whole2{
+    margin-top: 250px;
+    margin-right: 100px;
+}
+
+
+
+
+
