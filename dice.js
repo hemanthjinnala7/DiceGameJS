@@ -44,6 +44,8 @@ function generate1()
     score1 += rand1;
 
     document.getElementById("score1js").innerHTML =  score1;
+    document.getElementById("button1").disabled= true;
+    document.getElementById("button2").disabled= false;
 
     if(score1>40)
     {
@@ -105,6 +107,10 @@ function generate2()
         document.getElementById("score2js").innerHTML =  0;
         document.getElementById("main-js").innerHTML = "Congratulations!! "+document.getElementById("player2js").innerHTML +" You Win Reload For A New Game";
     }
+    document.getElementById("button2").disabled= true;
+    document.getElementById("button1").disabled= false;
+
+
 
 
 }
